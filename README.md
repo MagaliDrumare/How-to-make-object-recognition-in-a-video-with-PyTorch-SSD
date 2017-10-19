@@ -6,7 +6,7 @@
 
 
 ### A retenir du code : 
-
+```python
 # Object Detection
 
 # Importing the libraries
