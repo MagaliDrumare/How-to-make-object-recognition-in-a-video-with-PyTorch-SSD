@@ -3,6 +3,7 @@
 * Object Detection with SSD in the street: https://youtu.be/6q-DBCPROA8
 * Deep Learning for Object Detection, A Comprehensive Review by Joyce Xu : https://medium.com/towards-data-science/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9
 * Object Detection-Section 2 Computer Vison A-Z : https://www.udemy.com/computer-vision-a-z/learn/v4/t/lecture/8127602?start=0
+* Case Study Self Driving Car : http://bit.ly/2yD1s44 
 
 
 ### A retenir du code : 
